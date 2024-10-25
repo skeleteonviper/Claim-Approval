@@ -1,0 +1,8 @@
+org\example\workers\AssignUserTaskWorker.class
+org\example\services\UserTaskService.class
+org\example\services\ReassignService.class
+org\example\workers\ProcessorStringToArrayWorker.class
+org\example\workers\ReassignTaskWorker.class
+org\example\services\Zeebeservice.class
+org\example\App.class
+org\example\workers\ConvertStringToArrayWorker.class
